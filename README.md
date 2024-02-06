@@ -1,1 +1,8 @@
-# Welcome to NR6580: Data Analysis and Programming for Natural Resource Management
+# Welcome to NR6580: Data Analysis and Programming <br> for Natural Resource Management
+
+## Course Description
+The purpose of this course is to provide working professionals seeking a Master’s degree in Natural Resources with an introduction to programming and applied statistics. We will introduce key concepts in statistics using a programming language called Python, which is open-source (freely available). Examples and applications will directly relate to several research areas such as ecology, demography, and natural resource management. Ultimately, this course aims to demonstrate the relevance of data management and statistics in addressing questions that relate to these fields. Upon completion of this course, students will master programming skills and will be able to manipulate and analyze data with appropriate statistical models, as well as address ecological questions quantitatively. We will spend the first section of class learning about Python programming in Google Colab (basic notation; entering, reading, summarizing and plotting data), introductory and descriptive statistics (e.g. measures of center and dispersion). Once comfortable with the Google Colab interface and basic Python commands, students will learn about inferential statistics, hypothesis testing (e.g. t-test), experimental design (e.g. ANOVA), as well as modeling and testing relationships (e.g. logistic regression). We will then delve into more advanced topics such as utilizing Python for geospatial analysis (e.g. basic vector and raster geoprocessing) as time permits.
+
+
+## GitHub
+Code and datasets for this course will be posted here for ease of sharing and accessing course resources.
