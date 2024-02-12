@@ -1,1 +1,1 @@
-# Moudule 5: Hypothesis Testing
+# Module 5: Hypothesis Testing
